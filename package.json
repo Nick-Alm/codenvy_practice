@@ -1,0 +1,22 @@
+{
+  "name": "codenvy_practice",
+  "version": "1.0.0",
+  "description": "Practice with codenvy and node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Alm/codenvy_practice.git"
+  },
+  "author": "Nick Alm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Alm/codenvy_practice/issues"
+  },
+  "homepage": "https://github.com/Nick-Alm/codenvy_practice#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
